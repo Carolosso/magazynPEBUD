@@ -13,6 +13,7 @@ return new class extends Migration
     {
         Schema::create('materialy_drogowe', function (Blueprint $table) {
             $table->id();
+            $table->string('image_url')->nullable();
             $table->string('Nazwa')->nullable();
             $table->integer('Stan')->nullable();
             $table->string('Jednostka')->nullable();

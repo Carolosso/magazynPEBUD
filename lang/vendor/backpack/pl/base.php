@@ -35,7 +35,7 @@ return [
     'change_password' => 'Zmień hasło',
     'unauthorized' => 'Nieautoryzowane.',
     'dashboard' => 'Panel główny',
-    'handcrafted_by' => 'Wykonane przez',
+    'handcrafted_by' => 'Wszelkie prawa zastrzeżone.',
     'powered_by' => 'Zasilane przez',
     'my_account' => 'Moje konto',
     'update_account_info' => 'Zaktualizuj informacje o koncie',

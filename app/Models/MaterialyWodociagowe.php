@@ -21,7 +21,13 @@ class MaterialyWodociagowe extends Model
     // protected $primaryKey = 'id';
     // public $timestamps = false;
     protected $guarded = ['id'];
-    // protected $fillable = [];
+    protected $fillable = [
+        'image_url',
+        'Nazwa',
+        'Stan',
+        'Jednostka',
+        'Uwagi'
+    ];
     // protected $hidden = [];
 
     /*
