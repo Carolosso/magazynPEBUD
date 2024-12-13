@@ -26,10 +26,13 @@ class MaterialyWodociagowe extends Model
         'Nazwa',
         'Stan',
         'Jednostka',
-        'Uwagi'
+        'Uwagi',
+        'Widocznosc'
     ];
     // protected $hidden = [];
-
+    protected $casts = [
+        'Widocznosc' => 'boolean', // Ensure visibility is handled as a boolean
+    ];
     /*
     |--------------------------------------------------------------------------
     | FUNCTIONS

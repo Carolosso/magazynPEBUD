@@ -314,7 +314,7 @@ return [
         // "fa_IR" => "Persian (Iran)",
         // "fa" => "Persian",
         // "pl_PL" => "Polish (Poland)",
-        // "pl" => "Polish",
+         "pl" => "Polish",
         // "pt_BR" => "Portuguese (Brazil)",
         // "pt_GW" => "Portuguese (Guinea-Bissau)",
         // "pt_MZ" => "Portuguese (Mozambique)",
