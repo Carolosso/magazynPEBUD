@@ -7,7 +7,6 @@
     background-color: var(--tblr-success);
     border-radius: 5px;
     padding: 10px;
-
 }
 
 [data-bs-theme=dark] ::placeholder {
